@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-scoller'
+  name: 'ember-cli-scroller'
 };

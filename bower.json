@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-scoller",
+  "name": "ember-cli-scroller",
   "dependencies": {
     "ember": "~2.4.3",
     "ember-cli-shims": "0.1.1",

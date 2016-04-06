@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-scoller",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "ember-cli-scroller",
+  "version": "0.0.1",
+  "description": "An ember addon to add `scroll` event.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -39,7 +39,11 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-cli",
+    "scroll",
+    "ebookchain",
+    "ebookcoin"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
